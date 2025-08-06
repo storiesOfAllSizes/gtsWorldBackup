@@ -1,0 +1,2 @@
+# gtsWorldBackup
+Archiving giantessworld.net 
